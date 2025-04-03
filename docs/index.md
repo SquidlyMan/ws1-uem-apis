@@ -18,7 +18,7 @@ The best part about this new Postman collection is how easy it is to get started
 ### Create Fork from Existing Collection
 The first step is to create a fork of the original collection so that you can make the necessary changes for our own environment.
 
-1. In Postman, navigate to the Workspace ONE UEM APIs workspace.  
+1. In Postman, navigate to the Workspace ONE UEM APIs workspace (https://www.postman.com/workspace-one-uem).  
    ![76200-1119-175655-2](76200-1119-175655-2.png)
 2. Click the three dots next to the parent folder and select **Create a Fork**.  
    ![76200-1119-175655-3](76200-1119-175655-3.png)
